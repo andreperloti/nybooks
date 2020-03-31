@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NyBooks</string>
+
+    <string name="books_title">Books</string>
+    <string name="books_title_detail">Books Detail</string>
+
+    <string name="label_title">Title</string>
+    <string name="label_description">Description</string>
+
+
+
+    <string name="error_401">Error 401</string>
+    <string name="error_500">Servidor indisponível</string>
+    <string name="error_fatal">Error fatal</string>
+</resources>
